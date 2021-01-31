@@ -1,0 +1,12 @@
+N:\Documents\Misc Programs\Bingo\bin\Debug\Bingo.exe.config
+N:\Documents\Misc Programs\Bingo\bin\Debug\Bingo.exe
+N:\Documents\Misc Programs\Bingo\bin\Debug\Bingo.pdb
+N:\Documents\Misc Programs\Bingo\bin\Debug\Bingo.xml
+N:\Documents\Misc Programs\Bingo\obj\Debug\Bingo.vbprojAssemblyReference.cache
+N:\Documents\Misc Programs\Bingo\obj\Debug\Bingo.Form1.resources
+N:\Documents\Misc Programs\Bingo\obj\Debug\Bingo.Resources.resources
+N:\Documents\Misc Programs\Bingo\obj\Debug\Bingo.vbproj.GenerateResource.cache
+N:\Documents\Misc Programs\Bingo\obj\Debug\Bingo.vbproj.CoreCompileInputs.cache
+N:\Documents\Misc Programs\Bingo\obj\Debug\Bingo.exe
+N:\Documents\Misc Programs\Bingo\obj\Debug\Bingo.xml
+N:\Documents\Misc Programs\Bingo\obj\Debug\Bingo.pdb
